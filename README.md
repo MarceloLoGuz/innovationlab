@@ -55,3 +55,7 @@ python manage.py migrate
 4.- Ejecutar el proyecto:
 ```bash
 python manage.py runserver
+
+
+
+5.- Probar las API'S en POSTMAN: https://documenter.getpostman.com/view/14346707/2sA2r53Qqi
